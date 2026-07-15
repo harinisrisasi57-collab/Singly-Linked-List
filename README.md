@@ -1,1 +1,1 @@
-# Singly-Linked-List
+# Data structures
